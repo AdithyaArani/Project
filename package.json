@@ -15,18 +15,18 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/Chandrika06/web.html.git"
+      "url": "git+https://github.com/AdithyaArani/Project"
     },
     "keywords": [
       "user",
       "notes"
     ],
-    "author": "Chandrika",
+    "author": "adithya",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/Chandrika06/web.html/issues"
+      "url": "https://github.com/AdithyaArani/Project"
     },
-    "homepage": "https://github.com/Chandrika06/web.html#readme",
+    "homepage": "https://github.com/AdithyaArani/Project",
     "devDependencies": {
       "nodemon": "^2.0.20"
     }
